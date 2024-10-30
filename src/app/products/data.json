@@ -1,0 +1,72 @@
+{
+  "lip_liner": [
+    {
+      "id": "bmygzxaV7Hc",
+      "title": "Perfect Lip Liner Application",
+      "description": "Learn how to apply lip liner like a pro with this tutorial!"
+    }
+  ],
+  "lipstick": [
+    {
+      "id": "0Ygiw_i59IA",
+      "title": "How to Apply Lipstick Perfectly",
+      "description": "Master the art of applying lipstick for a flawless look."
+    }
+  ],
+  "foundation": [
+    {
+      "id": "tJ2Jrxa139A",
+      "title": "Flawless Foundation Routine",
+      "description": "Learn how to apply foundation flawlessly with this easy tutorial."
+    }
+  ],
+  "eyeliner": [
+    {
+      "id": "-ZBHc5mKuRQ",
+      "title": "Eyeliner Tutorial for Beginners",
+      "description": "A step-by-step guide to perfect eyeliner application."
+    }
+  ],
+  "eyeshadow": [
+    {
+      "id": "BpOzOyEIdOI",
+      "title": "Eyeshadow Basics Tutorial",
+      "description": "Learn the basics of eyeshadow application in this tutorial."
+    }
+  ],
+  "blush": [
+    {
+      "id": "N_JNF5lRhe4",
+      "title": "How to Apply Blush",
+      "description": "Get a natural blush look with this easy tutorial."
+    }
+  ],
+  "bronzer": [
+    {
+      "id": "_51ukA3hABM",
+      "title": "Bronzer Tutorial for a Sun-Kissed Look",
+      "description": "Achieve a sun-kissed glow with bronzer application tips."
+    }
+  ],
+  "mascara": [
+    {
+      "id": "InA8Xbg-hvo",
+      "title": "Perfect Mascara Application",
+      "description": "Learn how to apply mascara for long, voluminous lashes."
+    }
+  ],
+  "eyebrow": [
+    {
+      "id": "57ibr8XIF0Y",
+      "title": "Eyebrow Shaping and Filling",
+      "description": "Step-by-step tutorial on shaping and filling eyebrows."
+    }
+  ],
+  "nail_polish": [
+    {
+      "id": "rMvWd8FPY_c",
+      "title": "Nail Polish Application Tips",
+      "description": "Learn how to apply nail polish perfectly with these tips."
+    }
+  ]
+}

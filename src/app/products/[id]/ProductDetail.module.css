@@ -1,0 +1,152 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  background-color: #fce4ec;
+  font-family: "Poppins", sans-serif;
+  overflow-y: auto;
+}
+
+.backButton {
+  align-self: flex-start;
+  margin-bottom: 20px;
+  background-color: #f48fb1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.backButton:hover {
+  background-color: #f06292;
+}
+
+.productCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 100%;
+  max-width: 700px;
+  margin-bottom: 30px;
+}
+
+.image {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.productInfo {
+  text-align: center;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #7d5a83;
+  margin-bottom: 10px;
+}
+
+.brand,
+.price {
+  font-size: 20px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 16px;
+  color: #777;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.colorSection {
+  background-color: white;
+  width: 100%;
+  max-width: 700px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.sectionTitle {
+  font-size: 22px;
+  color: #7d5a83;
+  margin-bottom: 15px;
+}
+
+.colorPalette {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+
+.colorCircle {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.videoSection {
+  background-color: white;
+  width: 100%;
+  max-width: 700px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.videoContainer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.videoWrapper {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.videoWrapper iframe {
+  width: 100%;
+  height: 180px;
+  border-radius: 8px;
+}
+
+.videoTitle {
+  font-size: 16px;
+  color: #5a5a5a;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.videoDescription {
+  font-size: 14px;
+  color: #777;
+  margin-top: 5px;
+}
